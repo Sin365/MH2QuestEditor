@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MH2QuestEditor", "MH2QuestEditor.csproj", "{39B7B989-DE1D-4C28-8378-448796210303}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MHQuestHelperLib", "MHQuestHelperLib\MHQuestHelperLib.csproj", "{AC9E1E4A-4073-4A9C-B8EB-6C5B4FC7EFD4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39B7B989-DE1D-4C28-8378-448796210303}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39B7B989-DE1D-4C28-8378-448796210303}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39B7B989-DE1D-4C28-8378-448796210303}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39B7B989-DE1D-4C28-8378-448796210303}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC9E1E4A-4073-4A9C-B8EB-6C5B4FC7EFD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC9E1E4A-4073-4A9C-B8EB-6C5B4FC7EFD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC9E1E4A-4073-4A9C-B8EB-6C5B4FC7EFD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC9E1E4A-4073-4A9C-B8EB-6C5B4FC7EFD4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A160B23-92D0-4B01-A60A-4B6B6EA83DD1}
+	EndGlobalSection
+EndGlobal
